@@ -14,4 +14,10 @@ public class Byyyyy
 	{
 		System.out.println("have coffee2222");
 	}
+	@Test
+	public void haveyou1()
+	{
+		String browser=System.getProperty("Browser");
+		String url=System.getProperty("url");
+	}
 }
